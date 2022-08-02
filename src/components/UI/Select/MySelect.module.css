@@ -1,0 +1,9 @@
+.mySelect{
+    width: 10%;
+    background: transparent;
+    border: none;
+}
+
+.mySelect:focus{
+    outline: none;
+}
