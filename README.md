@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+the file .env was specially uploaded so that a person who starts to understand this could understand what needs to be specified in this file, but when uploading a real project, this file .env should not be in the public domain
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
